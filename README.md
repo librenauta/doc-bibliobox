@@ -20,7 +20,11 @@ Primeros apuntes del pad:
 -  
 --lista de bibliotecas hogareñas- [http://181.231.168.244/](http://181.231.168.244/)  
   
-[https://bibliobox.copiona.com/posts/biblio-box.html](https://bibliobox.copiona.com/posts/biblio-box.html), si lo pones en modo dark se ve que seleccionas, tengo que arreglar esto a futuro..  
+[https://bibliobox.copiona.com/posts/biblio-box.html](https://bibliobox.copiona.com/posts/biblio-box.html)
+
+
+
+  
 instalacion de 0  
 ---------------------------------------------------------------------usar si no tenes monitor y teclado  
 [https://zinenauta.copiona.com/img/Z5-3-min.png](https://zinenauta.copiona.com/img/Z5-3-min.png)  
